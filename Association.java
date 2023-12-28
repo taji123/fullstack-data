@@ -25,7 +25,6 @@ public class Association {
 	 
 	 Department eeestudent =new Department("eee",eee_student);
 	 List<Department> Dep1 =new ArrayList<Department> ();
-	 Dep1.add(ecestudent);
 	 
 	 Dep1.add(eeestudent);
 	
